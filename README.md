@@ -1,2 +1,2 @@
 # Go-Cake-Factory
-Small go coding test done for an interview
+Go coding test done for an interview
