@@ -1,11 +1,11 @@
 # Go-Cake-Factory
 Go coding test done for an interview under an hour
 
-Goal
-Create an app that allows us to hande cakes from a REST API.
+Goal <br\>
+Create an app that allows us to hande cakes from a REST API.<br\>
 
-Setup
-When the app is started, the API must be able to send a list of cakes as follow :
+Setup<br\>
+When the app is started, the API must be able to send a list of cakes as follow :<br\>
 
 [
 
@@ -71,7 +71,7 @@ When the app is started, the API must be able to send a list of cakes as follow 
 
 ]
 
-The API must handle the following ROUTES
+The API must handle the following ROUTES : <br\>
 
 GET /cakes : return a list of the cakes in JSON format, the cakes must be sorted by rank and alphabetically.
 
@@ -90,5 +90,5 @@ DELETE /cakes/:id : delete a cake from the list
 
 PUT /cakes/init : reset the list to the first 5 initial cakes
 
-Sort
+Sort:<br\>
 By default, we want the cakes sorted by rank and alphabetically if they have the same score.
